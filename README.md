@@ -27,3 +27,35 @@ QXDIYCFG/
 2. 使用此项目造成的任何后果由使用者自行承担
 3. 项目中涉及的第三方资源版权归原作者所有
 4. 不鼓励也不支持任何违反法律法规的行为
+
+---
+
+# QXDIYCFG
+
+QXDIYCFG Configuration Resource Backup.
+
+## Project Introduction
+
+QXDIYCFG Configuration Resource Backup
+
+## Directory Structure
+
+```
+QXDIYCFG/ 
+├── other/                   # Other non-GitHub resources
+├── username1/               # Downloaded resource directory
+├── username2/
+├── README.md                 # Project documentation
+└── LICENSE                   # Open source license
+```
+
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+
+## Disclaimer
+
+1. This project is for learning and research purposes only.
+2. Any consequences of using this project shall be borne by the user.
+3. The third-party resources involved in the project are owned by the original authors.
+4. We do not encourage or support any behavior that violates laws and regulations.
